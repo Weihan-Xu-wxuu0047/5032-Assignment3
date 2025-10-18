@@ -1,0 +1,12 @@
+I currently developing a webpage, using vue3+Bootstrap, and firebase as backend, (including firestore, cloud function, and authentication)
+The overall requirement of the project is in @Assignment Overview.md, I choose community sport. the development process is currently up to the final stage, the development requirement of this stage is in @Final_stage_requirement.md .
+
+I am going to use cloudflare for webpage hosting, firebase cloud function for serverless backend, firebase authentication for email login/register authentication(implemented, but may need to improve), firestore for database service(implemented). Sendgrid for email api, mapbox for map api. 
+
+Two innovation idea must implement:
+1.  appointment booking with calendar constraints.
+2. an admin dashboard for managing appointments and programs.
+
+According to the @Assignment Overview.md  browse the entire project @community-sport/ ,mainly focus on @src/ ,  get familiar with this project, and prepare to help me in the following development.
+
+All descriptive note document must only writen in @notes/ , not any other place of the project folder, This is a serious metter.

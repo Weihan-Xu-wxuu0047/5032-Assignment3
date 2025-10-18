@@ -1,0 +1,552 @@
+[
+  {
+    "id": "prog-003",
+    "title": "Youth Basketball — Community Hoops",
+    "sport": "Basketball",
+    "description": "Fun and energetic basketball sessions for teens with qualified coaches.",
+    "ageGroups": ["12-17"],
+    "cost": 8,
+    "costUnit": "per-session",
+    "accessibility": ["accessible-toilets"],
+    "inclusivityTags": ["youth", "team-sport"],
+    "schedule": [
+      {
+        "day": "Friday",
+        "start": "16:00",
+        "end": "17:30",
+        "frequency": "weekly",
+        "startDate": "2025-08-15",
+        "endDate": null
+      }
+    ],
+    "venue": {
+      "name": "Carlton Youth Centre",
+      "address": "88 Rathdowne St",
+      "suburb": "Carlton",
+      "postcode": "3053",
+      "lat": -37.803,
+      "lng": 144.971
+    },
+    "equipment": {
+      "provided": true,
+      "required": ["sports shoes"]
+    },
+    "contact": {
+      "email": "coach@communityhoops.org",
+      "phone": "03 9123 4567"
+    },
+    "images": ["/assets/images/basketball.jpg"],
+    "maxParticipants": 25
+  },
+  {
+    "id": "prog-004",
+    "title": "Inclusive Yoga — Mind & Body",
+    "sport": "Yoga",
+    "description": "Gentle yoga classes with adaptations for different ability levels.",
+    "ageGroups": ["18-40", "40-60", "60+"],
+    "cost": 12,
+    "costUnit": "per-class",
+    "accessibility": ["wheelchair-access", "quiet-area"],
+    "inclusivityTags": ["inclusive", "low-impact", "stress-relief"],
+    "schedule": [
+      {
+        "day": "Tuesday",
+        "start": "19:00",
+        "end": "20:00",
+        "frequency": "weekly",
+        "startDate": "2025-08-12",
+        "endDate": null
+      }
+    ],
+    "venue": {
+      "name": "Wellness Studio",
+      "address": "12 High St",
+      "suburb": "Prahran",
+      "postcode": "3181",
+      "lat": -37.849,
+      "lng": 144.994
+    },
+    "equipment": {
+      "provided": false,
+      "required": ["yoga mat"]
+    },
+    "contact": {
+      "email": "info@wellnessstudio.org",
+      "phone": "03 9345 6789"
+    },
+    "images": ["/assets/images/yoga.jpg"],
+    "maxParticipants": 15
+  },
+  {
+    "id": "prog-005",
+    "title": "Community Running Group — Early Risers",
+    "sport": "Running",
+    "description": "Social 5km runs along the Yarra, suitable for all levels.",
+    "ageGroups": ["18-40", "40-60"],
+    "cost": 0,
+    "costUnit": "free",
+    "accessibility": ["pet-friendly"],
+    "inclusivityTags": ["social", "outdoor", "low-cost"],
+    "schedule": [
+      {
+        "day": "Saturday",
+        "start": "07:00",
+        "end": "08:00",
+        "frequency": "weekly",
+        "startDate": "2025-08-23",
+        "endDate": null
+      }
+    ],
+    "venue": {
+      "name": "Yarra Park",
+      "address": "Brunton Ave",
+      "suburb": "East Melbourne",
+      "postcode": "3002",
+      "lat": -37.819,
+      "lng": 144.983
+    },
+    "equipment": {
+      "provided": false,
+      "required": ["running shoes"]
+    },
+    "contact": {
+      "email": "runclub@earlyrisers.org",
+      "phone": "03 9988 7766"
+    },
+    "images": ["/assets/images/running.jpg"],
+    "maxParticipants": 50
+  },
+  {
+    "id": "prog-006",
+    "title": "Adaptive Swimming — All Abilities",
+    "sport": "Swimming",
+    "description": "Supportive swimming lessons for people with disabilities, led by trained instructors.",
+    "ageGroups": ["8-12", "12-17", "18-40"],
+    "cost": 15,
+    "costUnit": "per-session",
+    "accessibility": ["pool-lift", "accessible-toilets", "family-change-rooms"],
+    "inclusivityTags": ["inclusive", "all-abilities", "confidence-building"],
+    "schedule": [
+      {
+        "day": "Sunday",
+        "start": "11:00",
+        "end": "12:00",
+        "frequency": "weekly",
+        "startDate": "2025-09-01",
+        "endDate": null
+      }
+    ],
+    "venue": {
+      "name": "Richmond Aquatic Centre",
+      "address": "1 Church St",
+      "suburb": "Richmond",
+      "postcode": "3121",
+      "lat": -37.827,
+      "lng": 145.002
+    },
+    "equipment": {
+      "provided": true,
+      "required": ["swimsuit", "towel"]
+    },
+    "contact": {
+      "email": "swim@richmondaquatic.org",
+      "phone": "03 9333 1122"
+    },
+    "images": ["/assets/images/swimming.jpg"],
+    "maxParticipants": 12
+  },
+
+  {
+    "id": "prog-007",
+    "title": "Wheelchair Tennis — Inclusive Play",
+    "sport": "Tennis",
+    "description": "Adaptive tennis sessions with trained coaches and accessible courts.",
+    "ageGroups": ["18-40", "40-60"],
+    "cost": 10,
+    "costUnit": "per-session",
+    "accessibility": ["wheelchair-access", "accessible-toilets"],
+    "inclusivityTags": ["inclusive", "adaptive-sport"],
+    "schedule": [
+      {
+        "day": "Saturday",
+        "start": "14:00",
+        "end": "15:30",
+        "frequency": "weekly",
+        "startDate": "2025-09-06",
+        "endDate": null
+      }
+    ],
+    "venue": {
+      "name": "Albert Park Tennis Centre",
+      "address": "24 St Kilda Rd",
+      "suburb": "Albert Park",
+      "postcode": "3206",
+      "lat": -37.842,
+      "lng": 144.975
+    },
+    "equipment": {
+      "provided": true,
+      "required": ["sports shoes"]
+    },
+    "contact": {
+      "email": "tennis@inclusiveplay.org",
+      "phone": "03 9666 4455"
+    },
+    "images": ["/assets/images/tennis.jpg"],
+    "maxParticipants": 12
+  },
+  {
+    "id": "prog-008",
+    "title": "Mums & Bubs Fitness",
+    "sport": "Group Fitness",
+    "description": "Low-impact fitness sessions designed for parents with babies.",
+    "ageGroups": ["18-40"],
+    "cost": 20,
+    "costUnit": "per-class",
+    "accessibility": ["pram-access", "baby-change"],
+    "inclusivityTags": ["family-friendly", "low-impact"],
+    "schedule": [
+      {
+        "day": "Thursday",
+        "start": "09:30",
+        "end": "10:30",
+        "frequency": "weekly",
+        "startDate": "2025-09-04",
+        "endDate": null
+      }
+    ],
+    "venue": {
+      "name": "Community Health Hub",
+      "address": "10 Smith St",
+      "suburb": "Collingwood",
+      "postcode": "3066",
+      "lat": -37.805,
+      "lng": 144.986
+    },
+    "equipment": {
+      "provided": false,
+      "required": ["yoga mat", "water bottle"]
+    },
+    "contact": {
+      "email": "fitness@mumsbubs.org",
+      "phone": "03 9330 1212"
+    },
+    "images": ["/assets/images/mums-bubs.jpg"],
+    "maxParticipants": 20
+  },
+  {
+    "id": "prog-009",
+    "title": "Seniors Tai Chi in the Park",
+    "sport": "Tai Chi",
+    "description": "Gentle outdoor Tai Chi for balance, flexibility and mindfulness.",
+    "ageGroups": ["60+"],
+    "cost": 0,
+    "costUnit": "free",
+    "accessibility": ["seating-available"],
+    "inclusivityTags": ["low-impact", "senior-friendly", "outdoor"],
+    "schedule": [
+      {
+        "day": "Wednesday",
+        "start": "08:30",
+        "end": "09:30",
+        "frequency": "weekly",
+        "startDate": "2025-09-03",
+        "endDate": null
+      }
+    ],
+    "venue": {
+      "name": "Flagstaff Gardens",
+      "address": "309–311 William St",
+      "suburb": "Melbourne",
+      "postcode": "3000",
+      "lat": -37.810,
+      "lng": 144.954
+    },
+    "equipment": {
+      "provided": true,
+      "required": []
+    },
+    "contact": {
+      "email": "taichi@wellbeing.org",
+      "phone": "03 9111 2233"
+    },
+    "images": ["/assets/images/taichi.jpg"],
+    "maxParticipants": 40
+  },
+  {
+    "id": "prog-010",
+    "title": "Women’s Only Self-Defence",
+    "sport": "Martial Arts",
+    "description": "Practical self-defence skills in a safe, women-only environment.",
+    "ageGroups": ["18-40", "40-60"],
+    "cost": 15,
+    "costUnit": "per-session",
+    "accessibility": ["accessible-toilets"],
+    "inclusivityTags": ["women-only", "confidence-building"],
+    "schedule": [
+      {
+        "day": "Monday",
+        "start": "18:00",
+        "end": "19:30",
+        "frequency": "weekly",
+        "startDate": "2025-09-01",
+        "endDate": null
+      }
+    ],
+    "venue": {
+      "name": "Northcote Community Hall",
+      "address": "125 High St",
+      "suburb": "Northcote",
+      "postcode": "3070",
+      "lat": -37.770,
+      "lng": 144.999
+    },
+    "equipment": {
+      "provided": false,
+      "required": ["comfortable clothing"]
+    },
+    "contact": {
+      "email": "defence@northcote.org",
+      "phone": "03 9550 3322"
+    },
+    "images": ["/assets/images/selfdefence.jpg"],
+    "maxParticipants": 25
+  },
+  {
+    "id": "prog-011",
+    "title": "Junior Cricket Academy",
+    "sport": "Cricket",
+    "description": "Skill-building cricket sessions for juniors with certified coaches.",
+    "ageGroups": ["8-12", "12-17"],
+    "cost": 50,
+    "costUnit": "per-term",
+    "accessibility": ["seating-available"],
+    "inclusivityTags": ["youth", "team-sport", "skill-building"],
+    "schedule": [
+      {
+        "day": "Saturday",
+        "start": "10:00",
+        "end": "12:00",
+        "frequency": "weekly",
+        "startDate": "2025-09-06",
+        "endDate": "2025-12-13"
+      }
+    ],
+    "venue": {
+      "name": "Box Hill Oval",
+      "address": "10 Station St",
+      "suburb": "Box Hill",
+      "postcode": "3128",
+      "lat": -37.819,
+      "lng": 145.124
+    },
+    "equipment": {
+      "provided": true,
+      "required": ["cricket whites"]
+    },
+    "contact": {
+      "email": "academy@juniorcricket.org",
+      "phone": "03 9444 2211"
+    },
+    "images": ["/assets/images/cricket.jpg"],
+    "maxParticipants": 30
+  },
+  {
+    "id": "prog-012",
+    "title": "Evening Zumba — Dance Fitness",
+    "sport": "Zumba",
+    "description": "High-energy group dance workouts set to upbeat music.",
+    "ageGroups": ["18-40"],
+    "cost": 12,
+    "costUnit": "per-class",
+    "accessibility": ["accessible-toilets"],
+    "inclusivityTags": ["dance", "fitness", "fun"],
+    "schedule": [
+      {
+        "day": "Thursday",
+        "start": "19:00",
+        "end": "20:00",
+        "frequency": "weekly",
+        "startDate": "2025-09-04",
+        "endDate": null
+      }
+    ],
+    "venue": {
+      "name": "St Kilda Dance Studio",
+      "address": "22 Acland St",
+      "suburb": "St Kilda",
+      "postcode": "3182",
+      "lat": -37.867,
+      "lng": 144.975
+    },
+    "equipment": {
+      "provided": true,
+      "required": ["water bottle", "sports shoes"]
+    },
+    "contact": {
+      "email": "zumba@stkilda.org",
+      "phone": "03 9220 8877"
+    },
+    "images": ["/assets/images/zumba.jpg"],
+    "maxParticipants": 40
+  },
+  
+    {
+      "id": "prog-013",
+      "title": "Kids Learn to Swim — Beginners",
+      "sport": "Swimming",
+      "description": "Introductory swimming lessons for children aged 5–8, focusing on water safety and basic strokes.",
+      "ageGroups": ["5-8"],
+      "cost": 12,
+      "costUnit": "per-session",
+      "accessibility": ["family-change-rooms"],
+      "inclusivityTags": ["beginner-friendly", "child-safety"],
+      "schedule": [
+        {
+          "day": "Saturday",
+          "start": "09:00",
+          "end": "09:45",
+          "frequency": "weekly",
+          "startDate": "2025-09-06",
+          "endDate": null
+        }
+      ],
+      "venue": {
+        "name": "Brighton Aquatic Centre",
+        "address": "55 Bay Rd",
+        "suburb": "Brighton",
+        "postcode": "3186",
+        "lat": -37.907,
+        "lng": 145.003
+      },
+      "equipment": {
+        "provided": true,
+        "required": ["swimsuit", "towel", "goggles"]
+      },
+      "contact": {
+        "email": "kidswim@brightonpool.org",
+        "phone": "03 9555 1234"
+      },
+      "images": ["/assets/images/swimming-kids.jpg"],
+      "maxParticipants": 10
+    },
+    {
+      "id": "prog-014",
+      "title": "Teen Swim Squad — Intermediate",
+      "sport": "Swimming",
+      "description": "Group training for teens with some swimming experience, building stamina and technique.",
+      "ageGroups": ["12-17"],
+      "cost": 80,
+      "costUnit": "per-term",
+      "accessibility": ["accessible-toilets"],
+      "inclusivityTags": ["youth", "team-training"],
+      "schedule": [
+        {
+          "day": "Tuesday",
+          "start": "17:00",
+          "end": "18:00",
+          "frequency": "weekly",
+          "startDate": "2025-09-02",
+          "endDate": "2025-12-09"
+        }
+      ],
+      "venue": {
+        "name": "North Melbourne Pool",
+        "address": "120 Arden St",
+        "suburb": "North Melbourne",
+        "postcode": "3051",
+        "lat": -37.800,
+        "lng": 144.941
+      },
+      "equipment": {
+        "provided": true,
+        "required": ["training fins", "kickboard"]
+      },
+      "contact": {
+        "email": "squad@nmcpool.org",
+        "phone": "03 9344 9988"
+      },
+      "images": ["/assets/images/swimming-teen.jpg"],
+      "maxParticipants": 20
+    },
+    {
+      "id": "prog-015",
+      "title": "Adult Swim for Fitness",
+      "sport": "Swimming",
+      "description": "A structured lap swimming program for adults looking to improve fitness and endurance.",
+      "ageGroups": ["18-40", "40-60"],
+      "cost": 15,
+      "costUnit": "per-session",
+      "accessibility": ["accessible-toilets", "pool-lift"],
+      "inclusivityTags": ["fitness", "low-cost"],
+      "schedule": [
+        {
+          "day": "Wednesday",
+          "start": "19:00",
+          "end": "20:00",
+          "frequency": "weekly",
+          "startDate": "2025-09-03",
+          "endDate": null
+        }
+      ],
+      "venue": {
+        "name": "MSAC (Melbourne Sports & Aquatic Centre)",
+        "address": "30 Aughtie Dr",
+        "suburb": "Albert Park",
+        "postcode": "3206",
+        "lat": -37.846,
+        "lng": 144.967
+      },
+      "equipment": {
+        "provided": false,
+        "required": ["swim cap", "goggles", "water bottle"]
+      },
+      "contact": {
+        "email": "adults@msac.org",
+        "phone": "03 9660 3333"
+      },
+      "images": ["/assets/images/swimming-adult.jpg"],
+      "maxParticipants": 25
+    },
+    {
+      "id": "prog-016",
+      "title": "Masters Swim Club — 60+",
+      "sport": "Swimming",
+      "description": "Supportive swimming for older adults to stay active and social, with modified training sets.",
+      "ageGroups": ["60+"],
+      "cost": 5,
+      "costUnit": "per-session",
+      "accessibility": ["accessible-toilets", "seating-available"],
+      "inclusivityTags": ["senior-friendly", "social"],
+      "schedule": [
+        {
+          "day": "Friday",
+          "start": "10:00",
+          "end": "11:00",
+          "frequency": "weekly",
+          "startDate": "2025-09-05",
+          "endDate": null
+        }
+      ],
+      "venue": {
+        "name": "Footscray Swim Centre",
+        "address": "90 Nicholson St",
+        "suburb": "Footscray",
+        "postcode": "3011",
+        "lat": -37.802,
+        "lng": 144.902
+      },
+      "equipment": {
+        "provided": true,
+        "required": ["swimsuit", "towel"]
+      },
+      "contact": {
+        "email": "masters@footscrayswim.org",
+        "phone": "03 9333 2211"
+      },
+      "images": ["/assets/images/swimming-senior.jpg"],
+      "maxParticipants": 15
+    }
+  
+  
+]

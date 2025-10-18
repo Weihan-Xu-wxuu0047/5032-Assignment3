@@ -1,0 +1,7 @@
+[
+  { "id": "faq-1", "question": "What sports are available?", "answer": "We list netball, football, yoga, swimming, and more." },
+  { "id": "faq-2", "question": "How much do sessions cost?", "answer": "Many are free or low-cost (e.g., $5 per session)." },
+  { "id": "faq-3", "question": "Is the site accessible?", "answer": "We follow WCAG 2.1 AA and include keyboard and screen-reader support." },
+  { "id": "faq-4", "question": "How do I register interest?", "answer": "Open a program detail page and use the form to send your interest." },
+  { "id": "faq-5", "question": "Can I filter programs?", "answer": "Yes—use the Find Sports page to filter by sport, age, cost, and accessibility." }
+]

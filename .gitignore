@@ -1,0 +1,44 @@
+ /community-sport/notes
+
+ /community-sport/community-sport/functions/node_modules/*
+! /community-sport/community-sport/functions/node_modules/
+! /community-sport/community-sport/functions/node_modules/package.json
+! /community-sport/community-sport/functions/node_modules/package-lock.json
+ /community-sport/community-sport/node_modules/*
+! /community-sport/community-sport/node_modules/
+! /community-sport/community-sport/node_modules/.package-lock.json
+
+ /community-sport/node_modules/*
+! /community-sport/node_modules/
+! /community-sport/node_modules/.package-lock.json
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist
+dist-ssr
+coverage
+
+
+/cypress/videos/
+/cypress/screenshots/
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+*.tsbuildinfo
